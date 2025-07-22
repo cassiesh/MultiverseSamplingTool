@@ -1,0 +1,10 @@
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+bayesian-optimization
+openpyxl
+statsmodels
